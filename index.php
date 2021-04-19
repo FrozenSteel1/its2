@@ -8,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-Главная
+Главная 1
 </body>
 </html>
