@@ -8,8 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-Главная 1
-Ветка 1 коммит 3
-Коммит 3
+Ветка  1
 </body>
 </html>
